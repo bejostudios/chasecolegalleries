@@ -127,7 +127,7 @@ a:hover {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-image: url('/images/mid-century-modern.jpg');
+    background-image: url('images/mid-century-modern.jpg');
     background-attachment: relative;
     background-size: cover;
     background-position-y: center;
