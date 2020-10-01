@@ -21,8 +21,7 @@ html {
 li {
     font-size: 1.5rem;
     word-spacing: 15px;
-    letter-spacing: 3px;
-    padding: 20px;
+    padding: 15px;
 }
 
 a {
@@ -50,7 +49,6 @@ a:hover {
         position: absolute;
     }
     * {
-        font-size: .65rem;
         position: relative;
 		padding: 0;
 		margin: 0;
@@ -63,7 +61,7 @@ a:hover {
 		display: inline-block;
 		padding: 30px 0 0 30px;
 		cursor: pointer;
-		font-size: 4rem;
+		font-size: 2rem;
 		color: darkcyan;
 		text-decoration: none;
 		border: mediumaquamarine;
@@ -83,6 +81,7 @@ a:hover {
 	  
 	.overlay-content {
         display: block;
+        font-size: 8rem;
 		text-align: center;
 		position: relative;
 		width: 100%;
@@ -130,7 +129,7 @@ a:hover {
     background-image: url('images/mid-century-modern.jpg');
     background-attachment: relative;
     background-size: cover;
-    background-position-y: center;
+    background-position: center;
     border-style: groove;
     background-blend-mode: luminosity;
 }
