@@ -41,7 +41,6 @@ a:hover {
     display: flex;
     height: 100px;
     margin-left: auto;
-    overflow-x: hidden; 
     width: auto;
 }
 
@@ -53,7 +52,7 @@ a:hover {
         left: 70%;
         margin-left: -150px;
         position: absolute;
-        height: 12vh;
+        height: 11vh;
         width: auto;
     }
     * {
