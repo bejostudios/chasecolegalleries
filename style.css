@@ -71,7 +71,7 @@ a:hover {
 	.overlay {
         z-index: 100;
 		position: fixed;
-		width: 0;
+		width: 100%;
 		top: 0;
 		background-color: #ecc3ec;
 		opacity: 0.85;
