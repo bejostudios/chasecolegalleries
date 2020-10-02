@@ -57,7 +57,6 @@ a:hover {
         width: auto;
     }
     * {
-        position: relative;
 		padding: 0;
 		margin: 0;
 		box-sizing: border-box;
@@ -65,11 +64,11 @@ a:hover {
 	  
 	.open,
 	.close {
-        position: relative;
+        position: absolute;
 		display: inline-block;
-		padding: 30px 0 0 30px;
+		padding: 20px 0 0 15px;
 		cursor: pointer;
-		font-size: 2rem;
+		font-size: 1.5rem;
 		color: darkcyan;
 		text-decoration: none;
 		border: mediumaquamarine;
@@ -96,7 +95,7 @@ a:hover {
 	}
 	  
 	.overlay-content a {
-		font-size: 3rem;
+		font-size: 2rem;
 		color: darkcyan;
 		display: block;
 		padding: 10px;
